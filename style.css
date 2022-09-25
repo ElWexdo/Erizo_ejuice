@@ -132,7 +132,7 @@ body{
 .card{
     width: 30%;
     text-align: center;
-    height: 380px;
+    height: 350px;
     box-shadow: 0 0 3px 0 rgba(0, 0, 0, .5);
     transform: scale(1);
     transition: transform 0.6s;
